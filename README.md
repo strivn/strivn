@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+- 😄 Ivan
+- 🇮🇩
+- 🌱 I’m currently learning mostly about Responsible AI and Privacy, but also anything that strikes my interest
+- 📫 How to reach me: [Telegram](https://telegram.me/iwiryadi) or on [Bluesky](https://bsky.app/profile/strivn.bsky.social) (just started out using it and seems fun!)
+- 🌐 [Website](https://strivn.github.io) but it's still a work in progress
+
 
 <!--
 **strivn/strivn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
