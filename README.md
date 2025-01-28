@@ -1,8 +1,6 @@
 ### Hi 👋
 - 😄 Ivan
-- 🇮🇩
 - 🌱 I’m currently learning mostly about Responsible AI (or AI Safety) and Privacy
-- 📫 How to reach me: [Telegram](https://telegram.me/iwiryadi) or on [Bluesky](https://bsky.app/profile/strivn.bsky.social) (just started out using it and seems fun!)
 - 🌐 [Website](https://strivn.github.io) but it's still a work in progress
 
 
